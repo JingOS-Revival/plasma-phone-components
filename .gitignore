@@ -1,0 +1,4 @@
+build
+.vscode/
+CMakeLists.txt.user
+plasma-phone.pro.user
